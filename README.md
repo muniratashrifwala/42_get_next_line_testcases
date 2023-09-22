@@ -1,4 +1,4 @@
-# get_next_line_42_testcases
+# 42_get_next_line_testcases
 This file contains different ways to test your Get_Next_Line project.
 
 ## For get_next_line ##
